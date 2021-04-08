@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 from game.play import Pair, Game
 from players.PlayerRandom import PlayerRandom
 from players.PlayerKeyboard import PlayerKeyboard
